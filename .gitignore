@@ -1,0 +1,30 @@
+# --- Binários e Arquivos Compilados ---
+*.exe
+*.dll
+*.bpl
+*.dcp
+*.dcu
+*.map
+*.dres
+*.rsm
+*.tds
+*.lib
+*.obj
+
+# --- Arquivos de Configuração Local e Cache (Específicos do Usuário) ---
+*.local
+*.identcache
+*.projdata
+*.tvsconfig
+*.dsk
+*.bdsproj.local
+
+# --- Backups Automáticos do Delphi ---
+*.~*
+__history/
+__recovery/
+
+# --- Outros arquivos temporários ---
+*.cfg
+*.dof
+*.skincfg
