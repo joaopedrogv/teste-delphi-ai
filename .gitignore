@@ -28,3 +28,12 @@ __recovery/
 *.cfg
 *.dof
 *.skincfg
+
+# --- Arquivos temporarios criados pela Extensão do VSCode ---
+GPATH
+GRTAGS
+GTAGS
+.vscode/GTEMP.pas
+
+# --- Arquivos CLI aider ---
+.aider*

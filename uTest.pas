@@ -33,8 +33,8 @@ end;
 // teste no delphi Rio Atenção
 procedure TForm1.BitBtn2Click(Sender: TObject);
 begin
-
-  ShowMessage('2 2 2 - Teste do delphi quanto a acentuação?');
+  // Alteração via VSCode - Órgão - Você
+  ShowMessage('ÓRgão - Você -  2 2 2 - Teste do delphi quanto a acentuação?');
 end;
 
 end.
