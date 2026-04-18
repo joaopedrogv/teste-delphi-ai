@@ -25,7 +25,7 @@ implementation
 
 procedure TForm1.BitBtn1Click(Sender: TObject);
 begin
-  ShowMessage('Teste do delphi quanto a acentuação!');
+  ShowMessage('Teste do delphi quanto a acentuação?');
 end;
 
 end.
