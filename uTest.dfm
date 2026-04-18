@@ -13,6 +13,13 @@ object Form1: TForm1
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
+  object Label1: TLabel
+    Left = 192
+    Top = 185
+    Width = 40
+    Height = 13
+    Caption = 'Aten'#231#227'o'
+  end
   object BitBtn1: TBitBtn
     Left = 400
     Top = 304
